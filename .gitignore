@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Environment & secrets
+.env
+*.pem
+*.key
+
+# Logs & temporary files
+*.log
+docs/logs/*.log
+
+# OS & editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
